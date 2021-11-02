@@ -1,15 +1,7 @@
-## Welcome to GitHub Pages
+# Welcome to jamesyang1624.github.io 
 
-
-###Wellcome To My Page
 ### Are some technical records
 ### Or the ashes of time
-
-### Markdown
-
-
-
-#jamesyang1624.github.io
 
 
 
